@@ -15,7 +15,8 @@
 3. Copie o diretório t---lang-the-best-extension para o '~/.vscode/extension':
 `cp -r t---lang-the-best-extension ~/.vscode/extensions`
 
-4. Agora abra o seu VSCODE e crie um arquivo .tpp:
+4. Agora abra o seu VSCODE e crie um arquivo .tpp.
+
 
 Se tudo ocorrer como o esperado, você obtera o seguinte resultado:
 
