@@ -7,7 +7,7 @@
 
 
 1. Clone este repositório:
-`git clone`
+`git clone https://github.com/victordmp/Highlight_Syntax_Tpp_Language.git`
 
 2. Acesse o diretório Highlight_Syntax_Tpp_Language:
 `cd Highlight_Syntax_Tpp_Language`
