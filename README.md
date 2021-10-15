@@ -10,11 +10,9 @@
 `git clone`
 
 2 - Acesse o diretório Highlight_Syntax_Tpp_Language:
-
 `cd Highlight_Syntax_Tpp_Language`
 
 3 - Copie o diretório t---lang-the-best-extension para o '~/.vscode/extension':
-
 `cp -r t---lang-the-best-extension ~/.vscode/extensions`
 
 4 - Agora abra o seu VSCODE e crie um arquivo .tpp:
