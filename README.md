@@ -7,7 +7,6 @@
 
 
 1 - Clone este repositório:
-
 `git clone`
 
 2 - Acesse o diretório Highlight_Syntax_Tpp_Language:
