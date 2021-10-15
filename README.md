@@ -8,15 +8,15 @@
 
 1. Clone este repositório:
 
-`git clone https://github.com/victordmp/Highlight_Syntax_Tpp_Language.git`
+  `git clone https://github.com/victordmp/Highlight_Syntax_Tpp_Language.git`
 
 2. Acesse o diretório Highlight_Syntax_Tpp_Language:
 
-`cd Highlight_Syntax_Tpp_Language`
+  `cd Highlight_Syntax_Tpp_Language`
 
 3. Copie o diretório t---lang-the-best-extension para o '~/.vscode/extension':
 
-`cp -r t---lang-the-best-extension ~/.vscode/extensions`
+  `cp -r t---lang-the-best-extension ~/.vscode/extensions`
 
 4. Agora abra o seu VSCODE e crie um arquivo .tpp.
 
