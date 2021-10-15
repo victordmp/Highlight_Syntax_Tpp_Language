@@ -19,4 +19,9 @@
 
 Se tudo ocorrer como o esperado, você obtera o seguinte resultado:
 
+<img width="423" alt="Screen Shot 2021-10-14 at 22 59 43" src="https://user-images.githubusercontent.com/42839818/137420599-03075299-258b-4ad1-86ab-2da280937dd9.png">
+
+
 ![Trecho de Código](file:///Users/victor/Desktop/Screen%20Shot%202021-10-14%20at%2022.59.43.png)
+
+
