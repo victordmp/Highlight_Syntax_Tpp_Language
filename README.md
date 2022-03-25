@@ -19,4 +19,5 @@
 
 Se tudo ocorrer como o esperado, você obtera o seguinte resultado:
 
-<img width="423" alt="Screen Shot 2021-10-14 at 22 59 43" src="https://user-images.githubusercontent.com/42839818/137420599-03075299-258b-4ad1-86ab-2da280937dd9.png">
+![Captura de tela de 2022-03-24 21-01-33](https://user-images.githubusercontent.com/42839818/160029073-4bd1995a-2088-405f-96f6-ba3cf315a310.png)
+
